@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoKeks2023
 - 👀 I’m interested in coding mods for Minecraft Java
-- 🌱 I’m currently learning python and a little HTTPS
+- 🌱 I’m currently learning python and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord DM
 - discord username: jokeks2022
